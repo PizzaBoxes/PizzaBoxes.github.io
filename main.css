@@ -31,6 +31,9 @@ body, html{
 /* Main title */
 
 h1{
+  @font-face {
+    font-family: "myFirstFont";
+  }
   font-family: 'Lato', 'Century Gothic', 'Trebuchet MS';
   color: #9d89a5;
   text-align: center;
