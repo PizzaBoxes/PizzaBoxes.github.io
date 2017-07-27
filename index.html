@@ -1,0 +1,104 @@
+<!-- The basic outlines -->
+<!DOCTYPE html>
+<html>
+
+<!-- Drop-down menu -->
+
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <div class="navMenu">
+  <li><a href="#home">Home</a></li>
+  <li><a href="#about">About</a></li>
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">My Projects</a>
+    <div class="dropdown-content">
+      <a href="#helloWorld">Hello World!</a>
+      <a href="#hangman">Hangman</a>
+      <a href="#pacman">Pacman</a>
+      <a href="#snake">Snake</a>
+    </div>
+  </li>
+  </div>
+</ul>
+
+<!-- Titles -->
+
+<div class="main">
+<header>
+  <h1>Welcome to My Page</h1>
+  <h2>Pizza slices are $1.50</h2>
+</header>
+</div>
+  
+  <!-- Pizza pictures -->
+  
+<img src="http://i63.tinypic.com/14mf6mf.jpg" border="0" width="250" height="150">
+<img src="http://i67.tinypic.com/t4wny0.jpg" border="0" width="150" height="100" align="right">
+  
+  <!-- snake project -->
+
+<div class="snake">
+<a href="#snake" target="_blank"><img src="http://i64.tinypic.com/5cwqwi.jpg" border="0" width="400" height="300" style="vertical-align:bottom"></a>
+</div>
+
+<div class="bg">
+  <title>My Webpage</title>
+  <link rel="stylesheet" type="text/css" href='https://fonts.googleapis.com/css?family=Lato:400,300,100,700,900'/>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+</div>
+
+</html>
