@@ -1,0 +1,52 @@
+/* Styles go here */
+
+body, html{
+  height: 100%;
+}
+
+/* Background display */
+
+.bg{
+  background-image: url("http://zellox.com/wp-content/uploads/2016/05/website-backgrounds-%E2%80%AB1%E2%80%AC-%E2%80%AB%E2%80%AC.jpg");
+
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Padding and margin */
+
+.main{
+  padding: 20px;
+  margin: 25px;
+}
+
+/* Nav Menu */
+
+.navMenu{
+  font-family: 'Century Gothic', 'Trebuchet MS';
+}
+
+/* Main title */
+
+h1{
+  font-family: 'Lato', 'Century Gothic', 'Trebuchet MS';
+  color: #9d89a5;
+  text-align: center;
+  font-weight: normal;
+}
+
+/* Witty subtitle */
+
+h2{
+  font-family: 'Century Gothic', 'Lato', 'Trebuchet MS';
+  font-style: italic;
+  font-size: 14px;
+  color: #a6a0bc;
+  text-align: center;
+}
+
+.snake{
+  margin: 500px;
+}
