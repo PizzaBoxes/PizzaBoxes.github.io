@@ -7,7 +7,7 @@ body, html{
 /* Background display */
 
 .bg{
-  background-image: url("http://zellox.com/wp-content/uploads/2016/05/website-backgrounds-%E2%80%AB1%E2%80%AC-%E2%80%AB%E2%80%AC.jpg");
+  background-image: url("https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjTy4_QvbveAhVNoVMKHb0QBmcQjRx6BAgBEAU&url=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fsunset-in-the-city-background_1122811.htm&psig=AOvVaw0HTS_NrcNiT9z3l9raEpPw&ust=1541446443652032");
 
   height: 100%;
   background-position: center;
@@ -34,7 +34,7 @@ h1{
   @font-face {
     font-family: "myFirstFont";
   }
-  font-family: 'Lato', 'Century Gothic', 'Trebuchet MS';
+  font-family: 'Arial', 'Century Gothic', 'Trebuchet MS';
   color: #9d89a5;
   text-align: center;
   font-weight: normal;
