@@ -34,11 +34,11 @@ h1{
   @font-face {
     font-family: "myFirstFont";
   }
-  font-family: 'Century Gothic', 'Century Gothic', 'Trebuchet MS';
+  font-family: 'Century Gothic', 'Lato', 'Trebuchet MS';
+  font-size: 36px;
   color: #6a448e;
   text-align: center;
   font-weight: normal;
-  font-size: 36px;
 }
 
 /* Subtitle */
