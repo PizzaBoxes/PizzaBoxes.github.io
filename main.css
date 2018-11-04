@@ -35,12 +35,12 @@ h1{
     font-family: "myFirstFont";
   }
   font-family: 'Arial', 'Century Gothic', 'Trebuchet MS';
-  color: #9d89a5;
+  color: #6a448e;
   text-align: center;
   font-weight: normal;
 }
 
-/* Witty subtitle */
+/* Subtitle */
 
 h2{
   font-family: 'Century Gothic', 'Lato', 'Trebuchet MS';
