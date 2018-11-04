@@ -52,5 +52,7 @@ h2{
 }
 
 .snake{
-  margin: 500px;
+  display: block;
+  margin-righ: auto;
+  margin-left: auto;
 }
