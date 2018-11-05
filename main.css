@@ -45,7 +45,7 @@ h1{
 
 h2{
   font-family: 'Century Gothic', 'Lato', 'Trebuchet MS';
-  /*font-style: italic;*/
+  font-style: italic;
   font-size: 24px;
   color: #8d5dba;
   text-align: center;
@@ -55,4 +55,12 @@ h2{
   display: block;
   margin-righ: auto;
   margin-left: auto;
+}
+
+.about{
+  font-family: 'Arial', 'Century Gothic', 'Trebuchet MS';
+  font-style: bold;
+  font-size: 36px;
+  text-align: center;
+  color: #474966;
 }
