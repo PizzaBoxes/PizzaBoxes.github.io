@@ -58,9 +58,11 @@ h2{
 }
 
 .about{
-  font-family: 'Arial', 'Century Gothic', 'Trebuchet MS';
-  font-style: bold;
-  font-size: 36px;
-  text-align: center;
-  color: #42d1f4;
+  h1{
+    font-family: 'Arial', 'Century Gothic', 'Trebuchet MS';
+    font-style: bold;
+    font-size: 36px;
+    text-align: center;
+    color: #42d1f4;
+  }
 }
