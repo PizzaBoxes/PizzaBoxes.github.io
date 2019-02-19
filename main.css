@@ -59,6 +59,9 @@ h2{
 
 .about{
   header{
+    @font-face {
+      font-family: "myFirstFont";
+    }
     font-family: 'Arial', 'Century Gothic', 'Trebuchet MS';
     font-style: bold;
     font-size: 36px;
