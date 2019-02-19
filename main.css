@@ -3,6 +3,14 @@
 body, html{
   height: 100%;
 }
+/* Center */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 /* Background display */
 
@@ -56,7 +64,7 @@ h2{
   margin-righ: auto;
   margin-left: auto;
 }
-
+/* About Page */
 .about{
   header{
     @font-face {
