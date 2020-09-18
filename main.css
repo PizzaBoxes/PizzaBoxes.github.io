@@ -15,12 +15,18 @@ body, html{
 /* Background display */
 
 .bg{
-  /*background-image: url("https://www.freepik.com/free-vector/hexagonal-pattern_852781.html");*/
+  background-image: url("https://i.imgur.com/ILH581h.png");*/
+
 
   height: 100%;
+  /*
+  background-color: #cccccc;
+  background-image: linear-gradient();
+  */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+
 }
 
 /* Padding and margin */
@@ -68,7 +74,7 @@ h2{
 .about{
   header{
     @font-face {
-      //font-family: "myFirstFont";    
+      //font-family: "myFirstFont";
       font-family: 'Arial', 'Century Gothic', 'Trebuchet MS';
     }
     font-style: bold;
