@@ -2,6 +2,8 @@
 
 body, html{
   height: 100%;
+  background-image: url(https://i.imgur.com/ILH581h.png);
+  background-color: #cccccc;
 }
 /* Center */
 
@@ -14,6 +16,7 @@ body, html{
 
 /* Background display */
 
+/*
 .bg{
   background-image: url("https://i.imgur.com/ILH581h.png");
 
@@ -21,14 +24,13 @@ body, html{
   height: 750px;
 
   background-color: #cccccc;
-  /*
-  background-image: linear-gradient();
-  */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 
 }
+
+*/
 
 /* Padding and margin */
 
